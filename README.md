@@ -33,12 +33,11 @@ git clone https://github.com/openai/privacy-filter.git
 cd privacy-filter
 pip install -e .
 
-# 2. Install GUI dependencies
+# 2. Install dependencies for classic UI
 pip install tkinterdnd2 torch
 
 # 3. (Optional) Install customtkinter and image for modern UI
-pip install customtkinter
-pip install image
+pip install customtkinter image
 ```
 
 ## 💡 Usage
