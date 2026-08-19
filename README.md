@@ -2,6 +2,8 @@
 
 A lightweight, drag-and-drop Python desktop application for redacting sensitive data from text using OpenAI's Privacy Filter model.
 
+![Open Privacy Filter Modern Screenshot](Open Privacy Filter Modern Screenshot.png "Screenshot")
+
 ## ✨ Features
 
 - **Drag & drop** text files directly into the input area
@@ -78,13 +80,12 @@ If you prefer to use the modern CustomTkinter interface, substitute `launch_mode
 ## 📁 Project Structure
 
 ```
-opftk/
+openai-privacy-filter-gui/
 ├── opftk.py              # Main GUI application
 ├── opftk_modern.py       # Main GUI application (Modern)
 ├── launch.bat            # Windows launcher
 ├── launch_modern.bat     # Windows launcher (Modern)
 ├── test-document.txt     # Test input file
-├── LICENSE.txt           # Apache 2.0 license file
 └── README.md             # This file
 ```
 
