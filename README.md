@@ -2,7 +2,7 @@
 
 A lightweight, drag-and-drop Python desktop application for redacting sensitive data from text using OpenAI's Privacy Filter model.
 
-![Open Privacy Filter Modern Screenshot]("Open Privacy Filter Modern Screenshot.png" "Screenshot")
+![Open Privacy Filter Modern Screenshot](opftk_modern_screenshot.png "opftk Modern Screenshot")
 
 ## ✨ Features
 
@@ -81,12 +81,13 @@ If you prefer to use the modern CustomTkinter interface, substitute `launch_mode
 
 ```
 openai-privacy-filter-gui/
-├── opftk.py              # Main GUI application
-├── opftk_modern.py       # Main GUI application (Modern)
-├── launch.bat            # Windows launcher
-├── launch_modern.bat     # Windows launcher (Modern)
-├── test-document.txt     # Test input file
-└── README.md             # This file
+├── opftk.py                     # Main GUI application
+├── opftk_modern.py              # Main GUI application (Modern)
+├── launch.bat                   # Windows launcher
+├── launch_modern.bat            # Windows launcher (Modern)
+├── test-document.txt            # Test input file
+├── opftk_modern_screenshot.png  # Test input file
+└── README.md                    # This file
 ```
 
 ## 📝 License
