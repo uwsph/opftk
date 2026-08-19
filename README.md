@@ -17,7 +17,7 @@ A lightweight, drag-and-drop Python desktop application for redacting sensitive 
 
 | Package | Install Command |
 |---------|-----------------|
-| Python 3.8+ | [python.org](https://www.python.org/) |
+| Python 3.8+ | See [python.org](https://www.python.org/) |
 | `tkinter` | Usually bundled with Python |
 | `tkinterdnd2` | `pip install tkinterdnd2` |
 | `torch` | `pip install torch` |
