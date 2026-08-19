@@ -85,7 +85,7 @@ openai-privacy-filter-gui/
 ├── launch.bat                   # Windows launcher
 ├── launch_modern.bat            # Windows launcher (Modern)
 ├── test-document.txt            # Test input file
-├── opftk_modern_screenshot.png  # Test input file
+├── opftk_modern_screenshot.png  # Modern theme GUI screenshot
 └── README.md                    # This file
 ```
 
