@@ -2,7 +2,7 @@
 
 A lightweight, drag-and-drop Python desktop application for redacting sensitive data from text using OpenAI's Privacy Filter model.
 
-![Open Privacy Filter Modern Screenshot](Open Privacy Filter Modern Screenshot.png "Screenshot")
+![Open Privacy Filter Modern Screenshot]("Open Privacy Filter Modern Screenshot.png" "Screenshot")
 
 ## ✨ Features
 
