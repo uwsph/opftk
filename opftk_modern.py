@@ -353,7 +353,7 @@ class OPFGui:
         img = Image.new("RGBA", (S, S), (0, 0, 0, 0))
         d = ImageDraw.Draw(img)
 
-        w = int(round(size * 0.13 * supersample))
+        w = int(round(size * 0.06 * supersample))
         if w < 2:
             w = 2
 
