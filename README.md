@@ -72,10 +72,10 @@ If you prefer to use the modern CustomTkinter interface, substitute `launch_mode
 
 ## 🔧 Troubleshooting
 
-| Issue | Fix |
-|-------|-----|
-| `launch.bat` fails on Windows | Ensure Python is in your `PATH` |
-| Slow redaction | Run on GPU (CUDA) or reduce input text size |
+|            Issue              |                    Fix                      |
+|-------------------------------|---------------------------------------------|
+| `launch.bat` fails on Windows | Ensure Python is in your `PATH`             |
+| Slow redaction                | Run on GPU (CUDA) or reduce input text size |
 
 ## 📁 Project Structure
 
