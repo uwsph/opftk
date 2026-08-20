@@ -255,6 +255,12 @@ class OPFGui:
             color=(34, 197, 94, 255)
         )
 
+        self._empty_icon = ctk.CTkImage(
+            light_image=Image.new("RGBA", (1, 1), (0, 0, 0, 0)),
+            dark_image=Image.new("RGBA", (1, 1), (0, 0, 0, 0)),
+            size=(1, 1)
+        )
+
         status_frame = ctk.CTkFrame(
             self.root,
             fg_color=("gray85", "gray25"),
@@ -468,7 +474,7 @@ class OPFGui:
             )
         else:
             self.status_icon.configure(
-                image=None
+                image=self._empty_icon
             )
 
     #################################################################
@@ -480,12 +486,13 @@ class OPFGui:
         messagebox.showinfo(
             "About",
             "Open Privacy Filter GUI\n\n"
-            "Desktop GUI front-end for OPF\n"
-            "Supports drag-and-drop text files\n"
-            "Automatically selects GPU or CPU\n"
-            "Windows, macOS, and Linux compatible\n"
-            "Version: 0.0.3\n"
-            "License: Apache 2.0"
+            "- Desktop GUI front-end for OPF\n"
+            "- Supports drag-and-drop text files\n"
+            "- Automatically selects GPU or CPU\n"
+            "- Windows, macOS, and Linux compatible\n"
+            "- Version: 0.0.4\n"
+            "- License: Apache 2.0\n"
+            "- Website: https://github.com/uwsph/opftk"
         )
 
     #################################################################
