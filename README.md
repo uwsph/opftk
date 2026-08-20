@@ -80,7 +80,7 @@ If you prefer to use the modern CustomTkinter interface, substitute `launch_mode
 ## 📁 Project Structure
 
 ```
-openai-privacy-filter-gui/
+opftk/
 ├── opftk.py                     # Main GUI application
 ├── opftk_modern.py              # Main GUI application (Modern)
 ├── launch.bat                   # Windows launcher
