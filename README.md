@@ -17,6 +17,7 @@ A lightweight, drag-and-drop Python desktop application for redacting sensitive 
 
 | Package | Install Command |
 |---------|-----------------|
+| Git     | See [Git-SCM](https://git-scm.com/) |
 | Python 3.8+ | See [python.org](https://www.python.org/) |
 | `tkinter` | Usually bundled with Python |
 | `tkinterdnd2` | `pip install tkinterdnd2` |
