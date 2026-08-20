@@ -87,6 +87,7 @@ openai-privacy-filter-gui/
 ├── launch_modern.bat            # Windows launcher (Modern)
 ├── test-document.txt            # Test input file
 ├── opftk_modern_screenshot.png  # Modern theme GUI screenshot
+├── LICENSE.txt                  # Apache 2.0 license file
 └── README.md                    # This file
 ```
 
