@@ -15,16 +15,16 @@ A lightweight, drag-and-drop Python desktop application for redacting sensitive 
 
 ## 📦 Requirements
 
-| Package | Install Command |
-|---------|-----------------|
-| Git     | See [Git-SCM](https://git-scm.com/) |
-| Python 3.8+ | See [python.org](https://www.python.org/) |
-| `tkinter` | Usually bundled with Python |
-| `tkinterdnd2` | `pip install tkinterdnd2` |
-| `torch` | `pip install torch` |
-| `customtkinter` (optional) | `pip install customtkinter` |
-| `image` (optional) | `pip install image` |
-| OpenAI Privacy Filter | See setup steps below |
+|        Package             |                   Install Command                    |
+|----------------------------|------------------------------------------------------|
+| Git                        | See [Git-SCM](https://git-scm.com/)                  |
+| Python 3.8+                | See [python.org](https://www.python.org/)            |
+| `tkinter`                  | Usually bundled with Python                          |
+| `tkinterdnd2`              | `pip install tkinterdnd2`                            |
+| `torch`                    | `pip install torch`                                  |
+| `customtkinter` (optional) | `pip install customtkinter`                          |
+| `image` (optional)         | `pip install image`                                  |
+| OpenAI Privacy Filter      | See setup steps below                                |
 
 ## 🚀 Quick Setup
 
