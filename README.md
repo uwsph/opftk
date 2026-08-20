@@ -64,10 +64,10 @@ If you prefer to use the modern CustomTkinter interface, substitute `launch_mode
 
 ### Workflow
 
-1. **Input** – Drag a `.txt` file into the left panel, or click **Open** to browse.
+1. **Input** – Drag a `.txt` file into the left panel, click **Open** to browse, or just paste in text.
 2. **Redact** – Click **Redact**. The model processes the text and displays results in the right panel.
 3. **Export** – Click **Copy Output** to clipboard, or **Save Output** to write a new file.
-4. **Clear** – Reset both panels to start fresh.
+4. **Clear** – Reset both panels to start fresh. (Optional)
 5. **Quit** – Close the window or use the system close button.
 
 ## 🔧 Troubleshooting
