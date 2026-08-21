@@ -202,12 +202,13 @@ class OPFGui:
         messagebox.showinfo(
             "About",
             "Open Privacy Filter GUI\n\n"
-            "Desktop GUI front-end for OPF\n"
-            "Supports drag-and-drop text files\n"
-            "Automatically selects GPU or CPU\n"
-            "Windows, macOS, and Linux compatible\n"
-            "Version: 0.0.3\n"
-            "License: Apache 2.0"
+            "- Front-end for OpenAI's Privacy Filter\n"
+            "- Supports drag-and-drop text files\n"
+            "- Automatically selects GPU or CPU\n"
+            "- Windows, macOS, and Linux compatible\n"
+            "- Version: 0.0.4\n"
+            "- License: Apache 2.0\n"
+            "- URL: https://github.com/uwsph/opftk"
         )
 
     #################################################################
